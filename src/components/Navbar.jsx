@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react';
 import { Menu, X, FileText, Sparkles, Send, ExternalLink } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
 
